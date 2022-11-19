@@ -2,6 +2,7 @@
   "name": "understanding-ts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rubtsov86.github.io/movies-react-ts/",
   "dependencies": {
     "@types/jest": "24.0.23",
     "@types/node": "12.12.8",
